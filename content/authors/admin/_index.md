@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maria Rita Munzlinger Narcizo
+title: Maria Rita
 
 # Full name (for SEO)
 first_name: Maria Rita
@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student
+# role: Student
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Institut Sankt Joseph
-    url: https://sanktjoseph.dk
+# organizations:
+#   - name: Institut Sankt Joseph
+#     url: https://sanktjoseph.dk
 
 # Short bio (displayed in user profile at end of posts)
 bio: Thank you for visiting my website.
